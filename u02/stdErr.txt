@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:/Users/Big data/PycharmProjects/eb102_python/u02/u02_04_sys.py", line 11, in <module>
+    print(a[2])
+IndexError: list index out of range
